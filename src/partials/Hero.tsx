@@ -16,7 +16,7 @@ const Hero = () => (
       description={
         <>
           I'm a developer with 8 years of experience working for both large and small teams. I love working with web technologies
-          and tackling new challenges. <a href="/assets/images/Sean-Sullivan-Full-Stack-Developer.pdf" target="_blank" className="underline">My resume.</a>
+          and tackling new challenges. <a href="https://drive.google.com/file/d/16SRjClIT_8U_zVqXgxbv7yjejK8WHRew/view?usp=sharing" target="_blank" className="underline">My resume.</a>
         </>
       }
       avatar={
