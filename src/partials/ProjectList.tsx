@@ -17,7 +17,7 @@ const ProjectList = () => (
     <div className="flex flex-col gap-6">
       <Project
         name="DOL API"
-        description="API for the Daily Office Lectionary in the Book of Common Prayer. Built with Go on the backend and HTMX and Alpine.js on the documentation site."
+        description="API for the Daily Office Lectionary in the Book of Common Prayer. Built with Go and deployed on Oracle Cloud."
         link="https://github.com/seanthesheep/daily-office-api"
         img={{
           src: '/assets/images/project-web-design.png',
